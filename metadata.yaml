@@ -1,0 +1,33 @@
+_repo: Zur-freundlichen-Erinnerung_7985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graf, Oskar Maria
+    aliases:
+    - Graf-Berg, Oskar
+    - Graf, Oskar
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '2614'
+    url: http://www.gutenberg.org/2009/agents/2614
+    wikipedia: http://en.wikipedia.org/wiki/Oskar_Maria_Graf
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7985'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Bayern (Bavaria, Germany : Province) -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: "Zwölf Jahre Zuchthaus.\r\nSinnlose Begebenheit.\r\nDie Lunge.\r\n\
+  Ohne Bleibe.\r\nEtappe.\r\nMichael Jürgert.\r\nEin dummer Mensch.\r\nAblauf."
+title: Zur freundlichen Erinnerung
+url: http://www.gutenberg.org/ebooks/7985
